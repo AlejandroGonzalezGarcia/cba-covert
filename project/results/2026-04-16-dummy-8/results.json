@@ -1,0 +1,192 @@
+{
+    "Trial 1": {
+        "response": "left",
+        "time_of_response": 3.6626508333720267,
+        "direction_to_look": "right",
+        "circle": {
+            "position": [
+                300,
+                0
+            ],
+            "frequency": 15
+        },
+        "square": {
+            "position": [
+                -300,
+                0
+            ],
+            "frequency": 10
+        }
+    },
+    "Trial 2": {
+        "response": "right",
+        "time_of_response": 2.0833427084144205,
+        "direction_to_look": "left",
+        "circle": {
+            "position": [
+                -300,
+                0
+            ],
+            "frequency": 15
+        },
+        "square": {
+            "position": [
+                300,
+                0
+            ],
+            "frequency": 10
+        }
+    },
+    "Trial 3": {
+        "response": "right",
+        "time_of_response": 1.449708875035867,
+        "direction_to_look": "right",
+        "circle": {
+            "position": [
+                -300,
+                0
+            ],
+            "frequency": 15
+        },
+        "square": {
+            "position": [
+                300,
+                0
+            ],
+            "frequency": 10
+        }
+    },
+    "Trial 4": {
+        "response": "right",
+        "time_of_response": 1.44734499999322,
+        "direction_to_look": "left",
+        "circle": {
+            "position": [
+                -300,
+                0
+            ],
+            "frequency": 10
+        },
+        "square": {
+            "position": [
+                300,
+                0
+            ],
+            "frequency": 15
+        }
+    },
+    "Trial 5": {
+        "response": "left",
+        "time_of_response": 2.199866458424367,
+        "direction_to_look": "left",
+        "circle": {
+            "position": [
+                -300,
+                0
+            ],
+            "frequency": 15
+        },
+        "square": {
+            "position": [
+                300,
+                0
+            ],
+            "frequency": 10
+        }
+    },
+    "Trial 6": {
+        "response": "right",
+        "time_of_response": 1.450039291754365,
+        "direction_to_look": "left",
+        "circle": {
+            "position": [
+                -300,
+                0
+            ],
+            "frequency": 15
+        },
+        "square": {
+            "position": [
+                300,
+                0
+            ],
+            "frequency": 10
+        }
+    },
+    "Trial 7": {
+        "response": "right",
+        "time_of_response": 1.4496094166534021,
+        "direction_to_look": "left",
+        "circle": {
+            "position": [
+                300,
+                0
+            ],
+            "frequency": 10
+        },
+        "square": {
+            "position": [
+                -300,
+                0
+            ],
+            "frequency": 15
+        }
+    },
+    "Trial 8": {
+        "response": "right",
+        "time_of_response": 1.6665855000028387,
+        "direction_to_look": "right",
+        "circle": {
+            "position": [
+                -300,
+                0
+            ],
+            "frequency": 10
+        },
+        "square": {
+            "position": [
+                300,
+                0
+            ],
+            "frequency": 15
+        }
+    },
+    "Trial 9": {
+        "response": "right",
+        "time_of_response": 1.4498390415683389,
+        "direction_to_look": "right",
+        "circle": {
+            "position": [
+                300,
+                0
+            ],
+            "frequency": 15
+        },
+        "square": {
+            "position": [
+                -300,
+                0
+            ],
+            "frequency": 10
+        }
+    },
+    "Trial 10": {
+        "response": "right",
+        "time_of_response": 4.300024041556753,
+        "direction_to_look": "left",
+        "circle": {
+            "position": [
+                -300,
+                0
+            ],
+            "frequency": 15
+        },
+        "square": {
+            "position": [
+                300,
+                0
+            ],
+            "frequency": 10
+        }
+    }
+}

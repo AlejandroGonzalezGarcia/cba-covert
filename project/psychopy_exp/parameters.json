@@ -1,0 +1,30 @@
+{
+    "participant":{
+        "participant_id": "dummy"
+    },
+    "monitor": {
+        "refresh_rate": 60,
+        "resolution": [1512, 982],
+        "window_size": [900, 600],
+        "fullscr": false,
+        "units": "deg"
+    },
+    "ssvep": {
+        "num_trials": 1,
+        "trial_duration": 2.0,
+        "min_trial_duration": 1.0,
+        "waveform": "square",
+        "phase_offset": [0,0],
+        "num_offline_trials": 1,
+        "offline_trial_duration": 2
+    },
+    "stimulus": {
+        "num_stimuli": 2,
+        "stimuli_shapes": ["square", "square"],
+        "stimuli_frequencies": [15, 10],
+        "stimuli_angles": [45, 225],
+        "stimuli_distances": [2],
+        "stimuli_size": [[2, 2], [2, 2]],
+        "stimuli_categories": ["faces", "houses"]
+    }
+}

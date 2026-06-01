@@ -1,0 +1,3 @@
+trial,target_direction,target_frequency,response_direction,response_frequency,rt,correct,timestamp
+1,left,15,right,10,2.9164579999633133,False,789897.194060416
+2,left,15,right,10,2.4831258750054985,False,789906.7440875

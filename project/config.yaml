@@ -1,0 +1,40 @@
+stream: # parameters for streaming unicorn device
+  max_chunk_size: 128 # max number of samples pulled per LSL read 
+  timeout: 0.2 # duration in seconds before stream reading times out
+
+buffer: # parameters for circular buffer shared between main process and background threads
+  buffer_duration: 2.0 # buffer duration in seconds
+
+plot_time:
+  plot_duration: 1.0 # time in seconds that the plot covers
+  n_channels: 8 # number of channels displayed
+
+participant:
+  participant_id: "dummy" 
+
+psychopy:
+  monitor:
+    refresh_rate: 60 # Hz
+    resolution: [2240, 1260] # [width, height] 
+    window_size: [1200, 800] # [width, height] 
+    fullscr: false # if false, window_size determines size of window
+    units: "deg" # pixels or 'deg' for deg of visual angle
+  
+  ssvep:
+    num_trials: 10 # number of trials
+    trial_duration: 20.0 # trial duration in seconds
+    min_trial_duration: 1.0 # amount of time before decoding starts (if decoding is set to on)
+    waveform: "square" # square or sinusoid (SINUSOID NOT YET IMPLEMENTED)
+    phase_offset: [0, 0] # phase offset in the case of a sinusoid
+  
+  stimulus: 
+    num_stimuli: 2
+    stimuli_shapes: ["circle", "square"] # shapes for stimuli in order
+    stimuli_frequencies: [15, 10] # frequencies for stimuli in order
+    stimuli_position: [[-7, 0], [7,0 ]] # array of coordinates where each stimulus will be in order
+    stimuli_size: [3, [2, 2]] # units in pix, input per target depends on shape of target
+
+
+
+
+

@@ -1,0 +1,122 @@
+{
+    "Trial 1": {
+        "response": "right",
+        "time_of_response": 1.3331202500266954,
+        "direction_to_look": "centre",
+        "circle": {
+            "position": [
+                0,
+                0
+            ],
+            "frequency": 15
+        }
+    },
+    "Trial 2": {
+        "response": "left",
+        "time_of_response": 4.2833707917016,
+        "direction_to_look": "centre",
+        "circle": {
+            "position": [
+                0,
+                0
+            ],
+            "frequency": 15
+        }
+    },
+    "Trial 3": {
+        "response": "left",
+        "time_of_response": 1.2428930416936055,
+        "direction_to_look": "centre",
+        "circle": {
+            "position": [
+                0,
+                0
+            ],
+            "frequency": 15
+        }
+    },
+    "Trial 4": {
+        "response": "right",
+        "time_of_response": 1.383024916634895,
+        "direction_to_look": "centre",
+        "circle": {
+            "position": [
+                0,
+                0
+            ],
+            "frequency": 15
+        }
+    },
+    "Trial 5": {
+        "response": "left",
+        "time_of_response": 1.6500644166953862,
+        "direction_to_look": "centre",
+        "circle": {
+            "position": [
+                0,
+                0
+            ],
+            "frequency": 15
+        }
+    },
+    "Trial 6": {
+        "response": "left",
+        "time_of_response": 1.449863416608423,
+        "direction_to_look": "centre",
+        "circle": {
+            "position": [
+                0,
+                0
+            ],
+            "frequency": 15
+        }
+    },
+    "Trial 7": {
+        "response": "right",
+        "time_of_response": 1.3499754583463073,
+        "direction_to_look": "centre",
+        "circle": {
+            "position": [
+                0,
+                0
+            ],
+            "frequency": 15
+        }
+    },
+    "Trial 8": {
+        "response": "left",
+        "time_of_response": 1.2333055415656418,
+        "direction_to_look": "centre",
+        "circle": {
+            "position": [
+                0,
+                0
+            ],
+            "frequency": 15
+        }
+    },
+    "Trial 9": {
+        "response": "right",
+        "time_of_response": 1.4497746666893363,
+        "direction_to_look": "centre",
+        "circle": {
+            "position": [
+                0,
+                0
+            ],
+            "frequency": 15
+        }
+    },
+    "Trial 10": {
+        "response": "left",
+        "time_of_response": 2.599716000026092,
+        "direction_to_look": "centre",
+        "circle": {
+            "position": [
+                0,
+                0
+            ],
+            "frequency": 15
+        }
+    }
+}
